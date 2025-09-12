@@ -173,6 +173,7 @@ sdem = sdem %>%
          par_c,
          eda,
          hrsocup,
+         ingocup,
          ing_x_hrs,
          sex,
          n_hij,
